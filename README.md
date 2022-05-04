@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maufernandezdev)](https://github.com/maufernandezdev)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maufernandezdev&layout=compact&langs_count=7&theme=dracula"/>
