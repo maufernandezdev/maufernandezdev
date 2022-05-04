@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
   
 #### Top Technologies
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="mau-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="mau-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="mau-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
