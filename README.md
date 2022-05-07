@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maufernandezdev&&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
   
-#### Top Technologies
+**About me**
 <div style="display: inline_block">
   <img align="center" alt="mau-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="mau-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
