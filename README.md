@@ -1,4 +1,5 @@
 ### Hi there 👋 i'm Mauricio Fernandez
+### I build things for the web :)
 
 <!--
 **maufernandezdev/maufernandezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
