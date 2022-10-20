@@ -30,3 +30,7 @@ Here are some ideas to get you started:
   <img align="center" alt="mau-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="mau-node" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 </div>  
+
+![Snake animation](https://github.com/maufernandezdev/maufernandezdev/blob/output/github-contribution-grid-snake.svg)
+  
+  
