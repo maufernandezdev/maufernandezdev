@@ -6,18 +6,6 @@ I'm a self-taught passionate FrontEnd developer from Buenos Aires
 
 ---
 
-### 📊 Stats
-
-<div align="left">
-  <a href="https://github.com/maufernandezdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maufernandezdev&theme=nightowl"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maufernandezdev&&layout=compact&langs_count=7&theme=nightowl"/>
-</div>
-  
-![Snake animation](https://github.com/maufernandezdev/maufernandezdev/blob/output/github-contribution-grid-snake.svg)
-  
-# 
-  
 ### 🧰 Languages and Tools
 
 <div style="display: inline_block">
@@ -39,6 +27,20 @@ I'm a self-taught passionate FrontEnd developer from Buenos Aires
   <img align="center" alt="mau-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   <img align="center" alt="mau-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="mau-node" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> -->
-</div>  
+</div> 
+
+#
+
+### 📊 Stats
+
+<div align="left">
+  <a href="https://github.com/maufernandezdev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maufernandezdev&theme=nightowl"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maufernandezdev&&layout=compact&langs_count=7&theme=nightowl"/>
+</div>
+  
+![Snake animation](https://github.com/maufernandezdev/maufernandezdev/blob/output/github-contribution-grid-snake.svg)
+  
+  
   
   
