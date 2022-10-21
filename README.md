@@ -4,8 +4,6 @@
 
 I'm a self-taught passionate FrontEnd developer from Buenos Aires
 
-<br />
-
 <!--
 **maufernandezdev/maufernandezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
