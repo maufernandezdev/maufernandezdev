@@ -38,7 +38,8 @@ I'm a self-taught passionate FrontEnd developer from Buenos Aires
 </div>
   
 ![Snake animation](https://github.com/maufernandezdev/maufernandezdev/blob/output/github-contribution-grid-snake.svg)
-  
-  
+
+ <a href="https://www.linkedin.com/in/mauriciofernandezdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:maufernandezdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   
