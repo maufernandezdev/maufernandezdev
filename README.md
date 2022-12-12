@@ -1,6 +1,8 @@
 # Hi there 👋 i'm Mauricio Fernandez 🏄‍
 
-I'm a self-taught passionate FrontEnd developer from Buenos Aires
+I'm a self-taught passionate FrontEnd developer from Buenos Aires.
+Now I am working as a JavaScript tutor at CoderHouse, and doing my own developments. 
+Currently, I am learning and implementing Next Js in my day to day.
 
 <a href="https://www.linkedin.com/in/mauriciofernandezdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:maufernandezdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
