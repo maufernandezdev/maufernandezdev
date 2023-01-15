@@ -26,12 +26,11 @@ Currently, I am implementing <strong>Next Js</strong> and <strong>MongoDB</stron
 ### 📊 Stats
 
 <div align="left">
-  
-  | <a href="https://github.com/maufernandezdev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?    username=maufernandezdev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Github stats" /></a> | <a href="https://github.com/maufernandezdev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maufernandezdev&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-  
+  <a href="https://github.com/maufernandezdev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maufernandezdev&theme=transparent"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maufernandezdev&&layout=compact&langs_count=7&theme=transparent"/>
 </div>
-
+  
 #
   
 ![Snake animation](https://github.com/maufernandezdev/maufernandezdev/blob/output/github-contribution-grid-snake.svg)
