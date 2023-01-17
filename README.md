@@ -27,7 +27,7 @@ Currently, I am implementing <strong>Next Js</strong> and <strong>MongoDB</stron
 
 <div align="left">
   <a href="https://github.com/maufernandezdev">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maufernandezdev&theme=nightowl"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maufernandezdev&bg_color=transparent&title_color=#333"/>
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maufernandezdev&&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
 
