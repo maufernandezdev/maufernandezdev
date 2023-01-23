@@ -4,8 +4,9 @@ I'm a self-taught passionate FrontEnd developer from Buenos Aires. <br />
 Now I am working as a <strong>JavaScript</strong> tutor at CoderHouse, and doing my own developments. <br />
 Currently, I am implementing <strong>Next Js</strong> and <strong>MongoDB</strong> in my day to day. <br />
 
-<a href="https://www.linkedin.com/in/mauriciofernandezdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:maufernandezdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/mauriciofernandezdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href = "mailto:maufernandezdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="https://www.youtube.com/channel/UCMXsxhUFDPZT1ULMhQXGbmg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   
 ---
 
